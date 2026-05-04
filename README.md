@@ -9,6 +9,9 @@ Always looking for innovative and impactful projects, I'm excited to bring my ex
 ## WakaTime Status: 
 [![wakatime](https://wakatime.com/badge/user/1a361110-b533-4763-bdba-d1a040d42c4f.svg)](https://wakatime.com/@1a361110-b533-4763-bdba-d1a040d42c4f)
 
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrgustavosantiago&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Main stacks:
 
 ### Programming Languages
